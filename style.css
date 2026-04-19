@@ -1,0 +1,49 @@
+body
+{
+    background-color: orange;
+}
+.head
+{
+    color: darkblue;
+}
+#bglime
+{
+    background-color: lime;
+}
+.highlight-color
+{
+    color: red;
+}
+.fontIncrs
+{
+    color: black;
+    font-size: 30px;
+}
+.link1
+{
+    background-color: yellow;
+}
+.link2
+{
+    background-color: blue;
+}
+.whiteColor
+{
+    color: white;
+}
+.redCol
+{
+    color: red;
+}
+.blueCol
+{
+    color: blue;
+}
+.fontInc
+{
+    font-size: larger;
+}
+.greenCol
+{
+    color: green;
+}
